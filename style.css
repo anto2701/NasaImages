@@ -1,0 +1,25 @@
+main {
+  min-height: calc(100vh - 160px);
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  border: none; 
+  border-radius: 8px; 
+}
+
+.card-img-top {
+  border-radius: 8px 8px 0 0;
+}
+
+h5.card-title {
+  font-size: 1.2em; 
+  font-weight: bold; 
+}
+
+.card-text {
+  color: #6c757d; 
+}
